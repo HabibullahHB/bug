@@ -1,0 +1,98 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;200;300;400;500;600;700&display=swap');
+
+
+
+/* spider icon */
+
+.fa-solid{
+  font-size: 50px;
+  color: #06d6a0;
+}
+
+/* web name/title */
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  float: left;
+  color: #073b4c;
+  padding-right: 10px;
+}
+
+/* first paragrap */
+
+.dis {
+  font-size: small;
+  text-align:justify;
+  width: 90%;
+  max-width: 700px;
+}
+
+/* Heilight txt */
+
+.fix p{
+  font-size: smaller;
+  text-align: center;
+  border-radius: 20px;
+  background-color: #ffd166;
+  margin: 2% auto;
+  padding: 2%;
+  width: 92%;
+  max-width: 600px;
+  display: block;
+}
+
+/* list item */
+
+.list ul{
+  font-family: 'Courier New', Courier, monospace;
+  list-style-type: none;
+  width: 19%;
+  padding: 10px;
+  background-color: #ef476f;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+/* japanis text */
+
+.japan p{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  text-align: justify;
+  width: 73%;
+  max-width: 600px;
+  display: block;
+
+}
+
+/*button*/
+
+.link a{
+  font-family: 'Noto Sans JP', sans-serif;
+  text-decoration: none;
+  display:inline-block;
+  background-color: #118ab2;
+  padding: 10px ;
+  margin: 10px;
+  width: 112px;
+  max-width: 200px;
+  border-radius: 20px;
+  color: azure;
+}
+/*button*/
+.link a:visited {
+background-color: #ffd166;
+color: #073b4c;
+}
+/*button*/
+.link a:hover {
+  background-color: #76c893;
+  color: #b5179e;
+}
+/*button*/
+.link a:active {
+  background-color: #eeef20;
+  color: #001f54;
+}
+
